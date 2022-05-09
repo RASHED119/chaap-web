@@ -1,0 +1,19 @@
+img{
+    height: 40px;
+    padding-left: 30px;
+}
+.ms-auto{
+    padding: 0 10px;
+}
+.ms-auto .link:hover{
+    color: #0072ff !important;
+}
+.link {
+    color: #555 !important;
+    font-weight: 600;
+    font-size:18px
+}
+.navbar-nav{
+    /* border: none !important; */
+    color: red !important;
+}
