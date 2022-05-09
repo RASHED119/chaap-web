@@ -1,0 +1,114 @@
+#testimonials{
+    width: 100%;
+    background: url('../../../images/background-1.png');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    padding-bottom: 50px;
+    
+ }
+ #testimonials h2{
+     padding-top: 60px;
+     font-size: 37px;
+     font-family: sans-serif;
+     color: rgb(25, 143, 103);
+     font-weight: 600;
+     text-align: center;
+     text-transform: uppercase;
+ }
+ 
+ .containere{
+     width: 1170px;
+     margin: auto;
+     flex-wrap: wrap;
+     justify-content: space-around;
+     display: flex;
+    
+ }
+ .items{
+ flex-basis: 31%;
+ margin: 10px 0px;
+ text-align: center;
+ padding: 20px 0px;
+ background-color:  #269b76;
+ border-radius: 10px;
+ 
+ }
+ .items h3{
+    padding-bottom: 20px;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 400;
+     font-family: 'Roboto', sans-serif;
+ text-transform: uppercase;
+ } 
+ 
+ .items img{
+     width: 160PX;
+     height: 160px;
+     padding-bottom: 15px;
+     margin-bottom: 10px;
+     margin-right: 20px;
+ }
+ .items p{
+     color: #ffffff;
+     font-size:20px;
+     font-weight: 400;
+     text-align: middle;
+     font-family: 'Roboto', sans-serif;
+     line-height: 30px;
+ }
+ .containere{
+     width: 1170px;
+     margin: auto;
+     flex-wrap: wrap;
+     justify-content: space-around;
+     display: flex;
+    
+ }
+ .item{
+ flex-basis: 23%;
+ margin: 10px 0px;
+ text-align: center;
+ padding: 20px 0px;
+ background-color:  #269b76;
+ border-radius: 10px;
+ 
+ }
+ .item h3{
+    padding-bottom: 30px;
+    color: #ffffff;
+    font-size: 34px;
+    font-weight: 400;
+     font-family: 'Roboto', sans-serif;
+     text-transform: uppercase;
+ } 
+ 
+ .item img{
+     width: 160PX;
+     height: 160px;
+     padding-bottom: 15px;
+     margin-bottom: 10px;
+     margin-right: 20px;
+ }
+ 
+ @media only screen and (min-width: 200px) and (max-width: 767px){
+     .containere{
+         width: 100%;
+         flex-direction: column;
+     }
+     .items{
+         margin: 10px;
+     }
+ }
+ 
+ @media only screen and (min-width: 200px) and (max-width: 767px){
+     .containere{
+         width: 100%;
+         flex-direction: column;
+     }
+     .item{
+         margin: 10px;
+     }
+ }
+ 
+ 

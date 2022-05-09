@@ -1,0 +1,27 @@
+#gallery_part{
+    min-height: 50vh;
+    }
+    #gallery_part .box-container{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        padding-bottom: 3rem;
+    }
+    #gallery_part .box-container .box{
+        flex-basis: 30%;
+        height: 20rem;
+        width: 30rem;
+        margin: 1rem;
+        overflow: hidden;
+        box-shadow: 0 0 10px 3px lightgrey;
+    }
+    #gallery_part .box-container .box img{
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+    #gallery_part hr{
+       border: none;
+        height: 10px;
+        background: rgb(61, 13, 192)
+    }

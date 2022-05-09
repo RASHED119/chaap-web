@@ -2,6 +2,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
 import Home from './page/Home/Home/Home';
+import Login from './page/Login/Login';
 
 function App() {
   return (
@@ -9,8 +10,8 @@ function App() {
       
       
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="about" element={<Home/>} />
+        <Route path="/home" element={<Home />} />
+        <Route path="login" element={<Login/>} />
       </Routes>
     </div>
   );

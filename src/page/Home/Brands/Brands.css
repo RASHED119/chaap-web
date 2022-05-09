@@ -1,0 +1,22 @@
+.brands{
+    margin: 100px 0;
+    }
+    .col-5{
+       flex-basis: 20%;
+    }
+    .col-5 img{
+      width: 100%;
+       height:150px;
+        cursor: pointer;
+        margin-left: 25px;
+        margin-right: 25px;
+     
+    
+    
+    }
+    /* .small-comtainer{
+        max-width: 1120PX;
+        margin: auto;
+        padding-left: 20px;
+        padding-right: 25px;
+    } */
