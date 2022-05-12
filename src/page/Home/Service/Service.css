@@ -22,6 +22,8 @@
      flex-wrap: wrap;
      justify-content: space-around;
      display: flex;
+     cursor: pointer;
+     transition: all 0.5 3s;
     
  }
  .items{
@@ -31,7 +33,9 @@
  padding: 20px 0px;
  background-color:  #269b76;
  border-radius: 10px;
- 
+ }
+ .items:hover{
+     transform: scale(1.05)
  }
  .items h3{
     padding-bottom: 20px;
@@ -63,8 +67,11 @@
      flex-wrap: wrap;
      justify-content: space-around;
      display: flex;
-    
+     transition: all 0.5 3s;
  }
+ .item:hover{
+    transform: scale(1.05)
+}
  .item{
  flex-basis: 23%;
  margin: 10px 0px;

@@ -1,0 +1,15 @@
+.footer{
+    background-color: #0dcaf0;
+}
+.footer img{
+    width: 120%;
+    height: 120%;
+}
+.footer p{
+   font-size: 18px;
+   color: white;
+}
+.footer h5{
+    color: white;
+    cursor: pointer;
+}
