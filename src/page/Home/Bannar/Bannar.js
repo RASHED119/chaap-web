@@ -5,11 +5,11 @@ import './Bannar.css';
 
 const Bannar = () => {
   return (
-    <div>
+    <div className="imgs">
       <Carousel variant="white">
-        <Carousel.Item>
+        <Carousel.Item >
           <img
-            className="d-block img-fluid"
+            className="d-block "
             src={logo2}
             alt="First slide"
           />
@@ -17,7 +17,7 @@ const Bannar = () => {
         </Carousel.Item>
         <Carousel.Item>
           <img
-            className="d-block img-fluid"
+            className="d-block "
             src={logo2}
             alt="Second slide"
           />
@@ -25,7 +25,7 @@ const Bannar = () => {
         </Carousel.Item>
         <Carousel.Item>
           <img
-            className="d-block img-fluid item-center"
+            className="d-block "
             src={logo2}
             alt="Third slide"
           />

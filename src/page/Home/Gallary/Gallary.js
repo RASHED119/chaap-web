@@ -18,7 +18,7 @@ const Gallary = () => {
                     <img src={glr3} alt="gallery_image" />
                 </div>
             </div>
-           <hr />
+            <hr />
         </section>
 
     );

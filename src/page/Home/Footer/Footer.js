@@ -37,7 +37,7 @@ const Footer = () => {
 
             <div className="footerbottom p-2" >
                 <Container>
-                    <p className="text-center mt-3">Copyright <FaCopyright/> chaapcommunicationbd</p>
+                    <p className="text-center mt-3 ">Copyright <FaCopyright/> chaapcommunicationbd</p>
                 </Container>
 
             </div>
