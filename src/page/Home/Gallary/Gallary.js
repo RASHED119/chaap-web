@@ -5,7 +5,7 @@ import glr2 from '../../../images/pic-10.png';
 import glr3 from '../../../images/pic-11.png';
 const Gallary = () => {
     return (
-
+        <div>
         <section id="gallery_part">
             <div className="box-container ">
                 <div className="box">
@@ -20,6 +20,8 @@ const Gallary = () => {
             </div>
             <hr />
         </section>
+        </div>
+      
 
     );
 };
