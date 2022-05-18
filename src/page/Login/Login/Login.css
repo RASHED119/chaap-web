@@ -1,0 +1,10 @@
+/* .loginimg{
+    width: 100px;
+    height: 72px;
+} */
+#main-container{
+    place-items: center center;
+}
+#sing-in-form{
+    max-width:330px;
+}
