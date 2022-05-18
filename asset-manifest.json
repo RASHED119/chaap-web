@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.90188fc1.css",
+    "main.js": "/static/js/main.1a36df30.js",
+    "static/js/787.d6cbb038.chunk.js": "/static/js/787.d6cbb038.chunk.js",
+    "static/media/background-1.png": "/static/media/background-1.f887b0674227247659c2.png",
+    "static/media/chap4.jpg": "/static/media/chap4.95eac93d2518e34e6c98.jpg",
+    "static/media/pic-11.png": "/static/media/pic-11.a692e167284ff9dda0c9.png",
+    "static/media/pic-10.png": "/static/media/pic-10.7b00922bbc309423788f.png",
+    "static/media/pic-9.png": "/static/media/pic-9.9c3fc04c1dcfa84bca51.png",
+    "static/media/background-2.png": "/static/media/background-2.d852e46a7733b568a53b.png",
+    "static/media/chap2.jpg": "/static/media/chap2.faf37b5310e1613c4656.jpg",
+    "static/media/chap1.jpg": "/static/media/chap1.2ca2e5099566e4619332.jpg",
+    "static/media/Logo-6.png": "/static/media/Logo-6.c344aad5833d23b141c1.png",
+    "static/media/maillogo.png": "/static/media/maillogo.25c0a3c5d6e9c15e2fdd.png",
+    "static/media/Logo-7.png": "/static/media/Logo-7.a9196b295258b674605a.png",
+    "static/media/Logo-1.png": "/static/media/Logo-1.2081f140ae8029a2a993.png",
+    "static/media/logo44.png": "/static/media/logo44.1f5f2bb8d1d472ba5b88.png",
+    "index.html": "/index.html",
+    "main.90188fc1.css.map": "/static/css/main.90188fc1.css.map",
+    "main.1a36df30.js.map": "/static/js/main.1a36df30.js.map",
+    "787.d6cbb038.chunk.js.map": "/static/js/787.d6cbb038.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90188fc1.css",
+    "static/js/main.1a36df30.js"
+  ]
+}
