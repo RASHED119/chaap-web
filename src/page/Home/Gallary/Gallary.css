@@ -1,5 +1,5 @@
 #gallery_part{
-    min-height: 50vh;
+    /* min-height: 100vh; */
     }
     #gallery_part .box-container{
         display: flex;
@@ -13,7 +13,7 @@
         width: 30rem;
         margin: 1rem;
         overflow: hidden;
-        box-shadow: 0 0 10px 3px lightgrey;
+        /* box-shadow: 0 0 10px 3px lightgrey; */
     }
     #gallery_part .box-container .box img{
         height: 100%;

@@ -23,7 +23,7 @@
      justify-content: space-around;
      display: flex;
      cursor: pointer;
-     transition: all 0.3s ease;
+     transition: all 0.9s ease;
     
  }
  .items{
@@ -68,7 +68,7 @@
      justify-content: space-around;
      display: flex;
      border: none;
-     transition: all 0.3s ease;
+     transition: all 0.9s ease;
  }
  .item:hover{
     transform: scale(1.3);
